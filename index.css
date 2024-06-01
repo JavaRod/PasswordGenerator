@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    margin-left: 52px;
+    margin-top: 115px;
+    background-color: #1F2937;
+}
+
+h1 {
+  font-family: "Karla", sans-serif;
+  font-style: ExtraBold;
+  font-size: 40px;
+  margin: 0;
+}
+
+p {
+  font-family: "Inter", sans-serif;
+  color: #D5D4D8;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.white {
+  color: white;
+}
+
+.green {
+    color: #4ADF86;
+}
