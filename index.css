@@ -33,6 +33,7 @@ button {
   background-color: #10B981;
   color: white;
   border-radius: 6px;
+  border: none;
   width: 190px;
   height: 40px;
 
@@ -53,4 +54,16 @@ hr {
 
 .green {
     color: #4ADF86;
+}
+
+.container{
+  display: flex;
+  gap: 24px
+}
+
+.password {
+  border-radius: 6px;
+  background-color: #273549;
+  width: 210px;
+  height: 39px;
 }
