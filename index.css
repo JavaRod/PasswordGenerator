@@ -62,8 +62,15 @@ hr {
 }
 
 .password {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
   border-radius: 6px;
   background-color: #273549;
   width: 210px;
   height: 39px;
+  color: #55F991;
+  font-family: "Inter", sans-serif;
+  font-style: Medium;
+  font-size: 16px;
 }
